@@ -2,6 +2,8 @@
 
 Minimal GUI wrapper around the `repomix` CLI to generate compact repository overviews for LLM prompts.
 
+![img](swappy-20250910_151549.png)
+
 ## Features
 
 - Choose project/repo directory (optionally via CLI arg)
